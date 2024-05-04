@@ -1,0 +1,11 @@
+/venv/
+/outputs/
+/figs/Accuracy.png
+/figs/Loss.png
+/figs/Model_1_Accuracy.png
+/figs/Model_1_Confusion_matrix.png
+/figs/Model_1_Loss.png
+/figs/Model_2_Accuracy.png
+/figs/Model_2_Confusion_matrix.png
+/figs/Model_2_Loss.png
+/figs/Model_Confusion_matrix.png
