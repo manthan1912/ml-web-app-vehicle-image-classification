@@ -38,10 +38,11 @@ Open a browser and navigate to http://127.0.0.1:5000/ to see the home page where
 ## Model Architecture
 The CNN model (create_cnn3) is structured as follows:
 
-Convolutional layers with increasing filter sizes and ReLU activations.
-Batch normalization and MaxPooling for feature normalization and dimension reduction.
-Dropout layers to prevent overfitting.
-Fully connected layers at the end to output the prediction.
+1. Convolutional layers with increasing filter sizes and ReLU activations.
+2. Batch normalization and MaxPooling for feature normalization and dimension reduction.
+3. Dropout layers to prevent overfitting.
+4. Fully connected layers at the end to output the prediction.
+
 The model outputs a binary prediction: "Positive" if the probability is greater than 0.5, otherwise "Negative"
 
 ## Web Interface
